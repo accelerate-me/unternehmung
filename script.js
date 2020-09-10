@@ -1,6 +1,6 @@
 function generator() {
     // word lists
-    var firstPart = ["Spazieren", "Tanzen", "Urlaub planen", "Schwimmen", "Filmschauen", "Romantischen Abend"];
+    var firstPart = ["Spazieren", "Sauna", "Urlaub planen", "Schwimmen", "Filmschauen", "Romantischen Abend"];
    // var secondPart = ["the Coming Order", "the Relationship of Command", "Evil Androids", "Cybernetic Brain"];
     // generate name
     var name = firstPart[Math.floor(Math.random() * firstPart.length)];
